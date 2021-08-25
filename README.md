@@ -1,10 +1,10 @@
-![stats](https://github-readme-stats.vercel.app/api?username=kurapan&count_private=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurapan)
+![stats](https://github-readme-stats.vercel.app/api?username=janzd&count_private=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janzd)
 
 <!--### Hi there 👋 -->
 
 <!--
-**kurapan/kurapan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**janzd/janzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
